@@ -1,4 +1,7 @@
 # Маркетинговый анализ Яндекс.Афиши
+
+https://nbviewer.jupyter.org/github/barrabanda/practicum/blob/main/afisha/afisha.ipynb
+
 ## Данные
 Для анализа предоставлены следующие данные:
 - данные о визитах пользователей в сервис 
