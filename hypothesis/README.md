@@ -1,6 +1,6 @@
 # Анализ гипотез на примере интернет-магазина
 
-https://nbviewer.jupyter.org/github/barrabanda/practicum/tree/main/hypothesis/
+https://nbviewer.jupyter.org/github/barrabanda/practicum/blob/main/hypothesis/hypothesis.ipynb
 
 ## Данные
 Для анализа предоставлены следующие данные:
